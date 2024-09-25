@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|c:\\users\\santi\\onedrive\\documentos\\proyecto personal\\proyecto[practica03]\\proyecto[practica03]\\services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|solutionrelative:proyecto[practica03]\\services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[practica03]\\services\\iaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|solutionrelative:proyecto[practica03]\\services\\iaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[practica03]\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|solutionrelative:proyecto[practica03]\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[practica03]\\models\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|solutionrelative:proyecto[practica03]\\models\\facturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[practica03]\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|solutionrelative:proyecto[practica03]\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\interfaces\\ifacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\domain\\forma_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\domain\\forma_pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\domain\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\data\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\data\\parameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\data\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\data\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[practica03]\\proyecto[practica03].csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82D47CB5-0521-4ABE-B9D4-D646128F973B}|proyecto[Practica03]\\proyecto[Practica03].csproj|solutionrelative:proyecto[practica03]\\proyecto[practica03].csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\datadll\\datadll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B41D52D-1B7C-4EB8-BE4B-004DB8761E1D}|DataDLL\\DataDLL.csproj|solutionrelative:datadll\\datadll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "proyecto[Practica03]",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\proyecto[Practica03].csproj",
+              "RelativeDocumentMoniker": "proyecto[Practica03]\\proyecto[Practica03].csproj",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\proyecto[Practica03].csproj",
+              "RelativeToolTip": "proyecto[Practica03]\\proyecto[Practica03].csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T14:43:16.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataDLL",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\DataDLL.csproj",
+              "RelativeDocumentMoniker": "DataDLL\\DataDLL.csproj",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\DataDLL.csproj",
+              "RelativeToolTip": "DataDLL\\DataDLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T14:39:01.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Data\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Data\\DataHelper.cs",
+              "RelativeToolTip": "DataDLL\\Data\\DataHelper.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:34:28.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Data\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Data\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Data\\FacturaRepository.cs",
+              "RelativeToolTip": "DataDLL\\Data\\FacturaRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwHAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:34:20.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parameter.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Data\\Parameter.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Data\\Parameter.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Data\\Parameter.cs",
+              "RelativeToolTip": "DataDLL\\Data\\Parameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:33:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Interfaces\\IFacturaRepository.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Interfaces\\IFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Interfaces\\IFacturaRepository.cs",
+              "RelativeToolTip": "DataDLL\\Interfaces\\IFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:33:26.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Forma_pago.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Domain\\Forma_pago.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Domain\\Forma_pago.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Domain\\Forma_pago.cs",
+              "RelativeToolTip": "DataDLL\\Domain\\Forma_pago.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:33:05.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Domain\\Factura.cs",
+              "RelativeDocumentMoniker": "DataDLL\\Domain\\Factura.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\DataDLL\\Domain\\Factura.cs",
+              "RelativeToolTip": "DataDLL\\Domain\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:32:44.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Services\\Mapper.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica03]\\Services\\Mapper.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Services\\Mapper.cs",
+              "RelativeToolTip": "proyecto[Practica03]\\Services\\Mapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:30:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAplication.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Services\\IAplication.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica03]\\Services\\IAplication.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Services\\IAplication.cs",
+              "RelativeToolTip": "proyecto[Practica03]\\Services\\IAplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:29:38.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica03]\\Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Services\\FacturaService.cs",
+              "RelativeToolTip": "proyecto[Practica03]\\Services\\FacturaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:29:04.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Facturas.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Models\\Facturas.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica03]\\Models\\Facturas.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Models\\Facturas.cs",
+              "RelativeToolTip": "proyecto[Practica03]\\Models\\Facturas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:28:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "proyecto[Practica03]\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\Santi\\OneDrive\\Documentos\\Proyecto personal\\proyecto[Practica03]\\proyecto[Practica03]\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "proyecto[Practica03]\\Controllers\\FacturasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:27:20.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

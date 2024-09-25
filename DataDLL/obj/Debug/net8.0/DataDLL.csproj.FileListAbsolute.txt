@@ -1,0 +1,12 @@
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\bin\Debug\net8.0\DataDLL.deps.json
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\bin\Debug\net8.0\DataDLL.dll
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\bin\Debug\net8.0\DataDLL.pdb
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.csproj.AssemblyReference.cache
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.AssemblyInfoInputs.cache
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.AssemblyInfo.cs
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.csproj.CoreCompileInputs.cache
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.dll
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\refint\DataDLL.dll
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\DataDLL.pdb
+C:\Users\Santi\OneDrive\Documentos\Proyecto personal\proyecto[Practica03]\DataDLL\obj\Debug\net8.0\ref\DataDLL.dll
